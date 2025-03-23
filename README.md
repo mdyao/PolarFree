@@ -10,7 +10,7 @@
 
 *Image source: [ThinkLucid](https://thinklucid.com/tech-briefs/polarization-explained-sony-polarized-sensor/)*  
 
-🔗 [**Project Page**](index.html) | 📄 [**Paper**](https://arxiv.org/abs/xxxxx) | 📦 [**Dataset**](Coming soon) 
+🔗 [**Project Page**](index.html) | 📄 [**Paper**](https://arxiv.org/abs/xxxxx) | 📦 [**Dataset**](Coming soon...) 
 
 ---
 
@@ -26,6 +26,9 @@
 
 - 📅 **2025-03-23** - 🛠️ Repository initialized with core codebase and documentation.  
 - 📅 **2025-03-23** - ✅ Project Page officially launched.  
+- ⬜ TODO: 🚀 Provide pre-trained models for evaluation.  
+- ⬜ TODO: 📦 Release the full PolaRGB dataset with download links.  
+- ⬜ TODO: 📝 Publish training code and instructions.  
 
 
 ## 📖 **Overview**  
