@@ -10,7 +10,7 @@
 
 *Image source: [ThinkLucid](https://thinklucid.com/tech-briefs/polarization-explained-sony-polarized-sensor/)*  
 
-🔗 [**Project Page**](index.html) | 📄 [**Paper**](https://arxiv.org/abs/xxxxx) | 📦 [**Dataset**](Coming soon...) 
+🔗 [**Project Page**](https://mdyao.github.io/PolarFree/) | 📄 [**Paper**](https://arxiv.org/abs/xxxxx) | 📦 [**Dataset**](Coming soon...) 
 
 ---
 
