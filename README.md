@@ -6,7 +6,7 @@
 
 🌟 *A Cutting-Edge Solution and Dataset for Polarization-based Reflection-Free Imaging*  
 
-![Polarization-based Reflection and Refraction](static/images/reflection-refraction-polarization.gif)  
+<img src="static/images/reflection-refraction-polarization.gif" alt="Polarization-based Reflection and Refraction" width="50%">
 
 *Image source: [ThinkLucid](https://thinklucid.com/tech-briefs/polarization-explained-sony-polarized-sensor/)*  
 
