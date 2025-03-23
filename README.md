@@ -6,7 +6,7 @@
 
 🌟 *A Cutting-Edge Solution and Dataset for Polarization-based Reflection-Free Imaging*  
 
-<img src="static/images/reflection-refraction-polarization.gif" alt="Polarization-based Reflection and Refraction" width="50%">
+<img src="docs/static/images/reflection-refraction-polarization.gif" alt="Polarization-based Reflection and Refraction" width="50%">
 
 *Image source: [ThinkLucid](https://thinklucid.com/tech-briefs/polarization-explained-sony-polarized-sensor/)*  
 
@@ -36,10 +36,10 @@
 PolarFree addresses the challenging task of reflection removal using polarization cues and a novel diffusion-based approach. Key contributions include:  
 - **PolaRGB Dataset**: A large-scale dataset with diverse indoor and outdoor scenes, providing RGB and polarization images.  
 
-![Dataset Overview](static/images/dataset_overview.png)
+![Dataset Overview](docs/static/images/dataset_overview.png)
 
 - **Diffusion Model**: Utilizes diffusion processes to generate reflection-free priors, enabling precise reflection removal and improved image clarity.  
-![Model Design](static/images/model_design.png)
+![Model Design](docs/static/images/model_design.png)
 
 - **Superior Results**: Extensive experiments on the PolaRGB dataset show that PolarFree outperforms existing methods by ~2dB in PSNR, achieving cleaner reflection removal and sharper image details.  
 
@@ -64,7 +64,7 @@ PolarFree addresses the challenging task of reflection removal using polarizatio
 ## 📊 **Results**
 PolarFree achieves superior performance compared to existing methods:
 
-![Results](static/images/results.png)
+![Results](docs/static/images/results.png)
 
 ## 📜 **Citation**
 If you find this work useful, please cite:
