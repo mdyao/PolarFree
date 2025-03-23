@@ -24,9 +24,10 @@
 
 ## ⏳ **Timeline**  
 
-- 📅 **2025-03-23** - 🛠️ Repository initialized with core codebase and documentation.  
-- 📅 **2025-03-23** - ✅ Project Page officially launched.  
-- ⬜ TODO: 🚀 Provide pre-trained models for evaluation.  
+- ✅ **2025-03-23** - 🛠️ Repository initialized with documentation.  
+- ✅ **2025-03-23** - 🔗 Project Page officially launched.  
+- ⬜ TODO: 📄 Paper available on arXiv.  
+- ⬜ TODO: 🚀 Provide core codebase and pre-trained models for evaluation.  
 - ⬜ TODO: 📦 Release the full PolaRGB dataset with download links.  
 - ⬜ TODO: 📝 Publish training code and instructions.  
 
