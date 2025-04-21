@@ -6,7 +6,7 @@
 
 🌟 *A Cutting-Edge Solution and Dataset for Polarization-based Reflection-Free Imaging*  
 
-<img src="https://github.com/mdyao/PolarFree/tree/doc/docs/static/images/reflection-refraction-polarization.gif" alt="Polarization-based Reflection and Refraction" width="50%">
+<img src="https://raw.githubusercontent.com/mdyao/PolarFree/doc/docs/static/images/reflection-refraction-polarization.gif" alt="Polarization-based Reflection and Refraction" width="50%">
 
 *Image source: [ThinkLucid](https://thinklucid.com/tech-briefs/polarization-explained-sony-polarized-sensor/)*  
 
@@ -36,10 +36,10 @@
 PolarFree addresses the challenging task of reflection removal using polarization cues and a novel diffusion-based approach. Key contributions include:  
 - **PolaRGB Dataset**: A large-scale dataset with diverse indoor and outdoor scenes, providing RGB and polarization images.  
 
-![Dataset Overview](https://github.com/mdyao/PolarFree/tree/doc/docs/static/images/dataset_overview.png)
+![Dataset Overview](https://raw.githubusercontent.com/mdyao/PolarFree/doc/docs/static/images/dataset_overview.png)
 
 - **Diffusion Model**: Utilizes diffusion processes to generate reflection-free priors, enabling precise reflection removal and improved image clarity.  
-![Model Design](https://github.com/mdyao/PolarFree/tree/doc/docs/static/images/model_design.png)
+![Model Design](https://raw.githubusercontent.com/mdyao/PolarFree/doc/docs/static/images/model_design.png)
 
 - **Superior Results**: Extensive experiments on the PolaRGB dataset show that PolarFree outperforms existing methods by ~2dB in PSNR, achieving cleaner reflection removal and sharper image details.  
 
@@ -81,7 +81,7 @@ python simple_test.py -opt options/test/test.yml -gpu_id 0
 ## 📊 **Results**
 PolarFree achieves superior performance compared to existing methods:
 
-![Results](https://github.com/mdyao/PolarFree/tree/doc/docs/static/images/results.png)
+![Results](https://raw.githubusercontent.com/mdyao/PolarFree/doc/docs/static/images/results.png)
 
 ## 📜 **Citation**
 If you find this work useful, please cite:
