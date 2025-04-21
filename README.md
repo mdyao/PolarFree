@@ -27,7 +27,7 @@
 - ✅ **2025-03-23** - 🛠️ Repository initialized with documentation.  
 - ✅ **2025-03-23** - 🔗 Project Page officially launched.  
 - ✅ **2025-03-23** - 📄 Paper available on arXiv.  
-- ⬜ TODO: 🚀 Provide core codebase and pre-trained models for evaluation.  
+- ✅ **2025-04-21**: 🚀 Provide core codebase and pre-trained models for evaluation.  
 - ⬜ TODO: 📦 Release the full PolaRGB dataset with download links.  
 - ⬜ TODO: 📝 Publish training code and instructions.  
 
@@ -49,17 +49,34 @@ PolarFree addresses the challenging task of reflection removal using polarizatio
 
 ---
 
-## 🚀 **Installation**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/mdyao/PolarFree.git
-   cd PolarFree
-   pip install -r requirements.txt
-    ```
-2. Run the demo:
-    ```
-    python demo.py --input example.jpg --output result.jpg
-    ```
+## 🚀 **Installation & Usage**
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mdyao/PolarFree.git
+cd PolarFree
+pip install -r requirements.txt
+```
+
+### 2. Download the Dataset
+
+You can access the dataset from Hugging Face:  
+👉 [https://huggingface.co/datasets/Mingde/PolaRGB](https://huggingface.co/datasets/Mingde/PolaRGB)
+
+Download and organize the dataset according to the structure required by the codebase.
+
+Note: Currently, only the test dataset is available. The training dataset is being organized. Stay tuned!
+
+
+### 3. Run the Demo
+
+Once everything is set up, run the demo script:
+
+```bash
+python simple_test.py -opt options/test/test.yml -gpu_id 0
+```
+--- 
 
 ## 📊 **Results**
 PolarFree achieves superior performance compared to existing methods:
